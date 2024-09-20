@@ -1,0 +1,9 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.Space-nav {
+  height: 55px;
+  border: 1px solid #000;
+}
+
